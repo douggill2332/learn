@@ -1,0 +1,22 @@
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+<style>
+  .blue-text {
+    color: blue;
+  }
+  h2 {
+    font-family: Lobster;
+  }
+  p {
+    text-size: 16px;
+    font-family: Monospace;
+  }
+  .smaller-image {
+    width: 100px;
+  }
+  .thick-green-border {
+    border-width: 10px;
+    border-color: green;
+    border-style: solid;
+    border-radius: 50%;
+  }
+</style>
